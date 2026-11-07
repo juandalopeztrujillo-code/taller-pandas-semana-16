@@ -98,7 +98,7 @@ Para entregar, agrega al final de este `README.md` una sección con tu nombre y 
 
 # Entrega
 
-**Estudiante:** Santiago Arango
+**Estudiante:** Juan David López
 **Docente:** Diego Giraldo Zapata, Nuevas tecnologías (CESDE)
 
 Las capturas de pantalla y los gráficos están en la carpeta [`images/`](images/).
